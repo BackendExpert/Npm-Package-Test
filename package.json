@@ -2,7 +2,7 @@
   "name": "jk-npm",
   "version": "1.0.0",
   "description": "Testing A NPM Package",
-  "main": "index.css",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,5 +1,5 @@
 {
-  "name": "jk-npm",
+  "name": "@jkandy/jk-npm",
   "version": "1.0.0",
   "description": "Testing A NPM Package",
   "main": "index.js",

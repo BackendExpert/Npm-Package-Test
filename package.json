@@ -1,0 +1,22 @@
+{
+  "name": "jk-npm",
+  "version": "1.0.0",
+  "description": "Testing A NPM Package",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BackendExpert/Npm-Package-Test.git"
+  },
+  "keywords": [
+    "NPMTEST"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BackendExpert/Npm-Package-Test/issues"
+  },
+  "homepage": "https://github.com/BackendExpert/Npm-Package-Test#readme"
+}
